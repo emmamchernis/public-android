@@ -1,2 +1,3 @@
-# public-android
-testing purposes bitrise
+Hello, Bitrise!
+
+Hello, again!
